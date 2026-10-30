@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Golang**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 👯 I'm open to collaborate on **open source projects** and **internships**
 
 - 🤝 I'm looking for help with **learning system design**
 
